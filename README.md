@@ -1,7 +1,7 @@
 # collabpractice
 
 ## Salsa recipe
-Chop the following ingredients: /n
+Chop the following ingredients:
 * tomatoes
 * bell peppers
 * avocado
