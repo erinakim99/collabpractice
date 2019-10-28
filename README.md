@@ -7,3 +7,4 @@ Chop the following ingredients:
 * avocado
 * lime
 * Salt
+* Hot salsa
